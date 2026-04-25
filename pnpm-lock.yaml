@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@payloadcms/live-preview':
-        specifier: ^3.0.0
+        specifier: 3.84.1
         version: 3.84.1
     devDependencies:
       '@commitlint/cli':
