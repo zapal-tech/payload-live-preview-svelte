@@ -183,7 +183,7 @@ complex custom integrations, building an app from scratch, or expanding your eng
 ## Stand with Ukraine 🇺🇦
 
 Zapal is a Ukrainian company. russia's war against our country began in 2014, and since February 2022, our country has been
-defending itself against a brutal, unprovoked full-scale invasion by Russia.
+defending itself against a brutal, unprovoked full-scale invasion by russia.
 
 We are fighting an existential war against what was once called the "second army in the world." The odds are incredibly
 disproportionate, yet Ukraine stands.
